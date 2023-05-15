@@ -1,0 +1,13 @@
+import java.util.*;
+import javax.swing.*;
+public class project extends JFrame
+{
+    project()
+    {
+            setvisible(true);
+    }
+    public static void main(String arg[])
+{
+    project a = new project();
+}
+}
